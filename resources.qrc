@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>brick.png</file>
+        <file>planks_acacia.png</file>
+        <file>stone.png</file>
+        <file>grass_top.png</file>
+        <file>Steampunk_Fly_albedo.jpg</file>
+    </qresource>
+    <qresource prefix="/models">
+        <file>monkey2.obj</file>
+        <file>sidor.obj</file>
+        <file>torus.obj</file>
+        <file>Steampunk_Fly_low_poly.obj</file>
+        <file>all.asd</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>test.vsh</file>
+        <file>test.fsh</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>style.css</file>
+        <file>qch/basic.html</file>
+    </qresource>
+</RCC>

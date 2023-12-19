@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<QtHelpProject version="1.0">
+   <namespace>ru.kpda.doc.basic</namespace>
+   <virtualFolder>html</virtualFolder>
+   <filterSection>
+
+      <toc>
+         <section title="Привет, мир!" ref="basic.html"/>
+      </toc>
+
+      <keywords>
+         <keyword name="Hello" ref="basic.html"/>
+      </keywords>
+
+      <files>
+         <file>basic.html</file>
+         <file>basic.css</file>
+      </files>
+
+   </filterSection>
+</QtHelpProject>
